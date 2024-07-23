@@ -1,6 +1,6 @@
 import customtkinter
 import serial
-from PIL import Image, ImageTk
+from PIL import Image
 from tkinter import messagebox
 import os
 
